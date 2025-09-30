@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/I-mgopal/I-mgopal/output/snake.svg" alt="Snake animation" />
 
 ###
